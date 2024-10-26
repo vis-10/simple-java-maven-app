@@ -23,7 +23,7 @@ pipeline {
         // }
         stage('Complete') {
             steps {
-                echo "This is complete in master branch"
+                echo "This is completed in master branch"
             }
         }
     }
